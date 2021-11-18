@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tomthebarbarian
+- 👋 Hi, I’m Tom Zhang
 - 👀 I’m interested in GIS and Spatial Analysis
 - 🌱 I’m currently learning full stack web dev with js, html, ruby, css
 - 💞️ I’m looking to collaborate on game modding.
