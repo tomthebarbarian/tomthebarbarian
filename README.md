@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Tom Zhang
-- 👀 I’m interested in GIS and Spatial Analysis
-- 🌱 I’m currently learning full stack web dev with js, html, ruby, css
-- 💞️ I’m looking to collaborate on game modding.
+- 👋 Hi, I’m Tom (Xin Sheng) Zhang
+- 👀 I’m interested in Web Development and Spatial Analysis
+- 🌱 I’m currently looking for a job as a junior full stack web dev with js, html, ruby, css
+- 💞️ I’m looking to collaborate on web projects.
 - 📫 How to reach me tom.zhang989@gmail.com
 
 <!---
